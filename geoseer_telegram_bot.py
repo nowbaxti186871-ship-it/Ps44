@@ -18,7 +18,7 @@ logger = logging.getLogger(__name__)
 GEOSEER_API_KEY = os.environ.get("GEOSEER_API_KEY", "gsk_qKoLEEhXh_JN1oS8qRDbb8Z4MGxMWIbsmti_j3h5pK8")
 
 # Replace with your actual Telegram Bot Token
-TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "YOUR_TELEGRAM_BOT_TOKEN_HERE")
+TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "8512837274:AAFoJ4WxFlmrY_PsBKNahtgMEAtVyHMSTps")
 
 # GeoSeer API endpoint (as per documentation found)
 GEOSEER_API_BASE_URL = "https://api.geoseer.net/v1/"
